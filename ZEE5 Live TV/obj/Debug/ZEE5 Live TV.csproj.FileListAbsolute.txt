@@ -1,0 +1,14 @@
+C:\Users\Henry\source\repos\ZEE5 Live TV\ZEE5 Live TV\bin\Debug\ZEE5 Live TV.exe.config
+C:\Users\Henry\source\repos\ZEE5 Live TV\ZEE5 Live TV\bin\Debug\ZEE5 Live TV.exe
+C:\Users\Henry\source\repos\ZEE5 Live TV\ZEE5 Live TV\bin\Debug\ZEE5 Live TV.pdb
+C:\Users\Henry\source\repos\ZEE5 Live TV\ZEE5 Live TV\obj\Debug\ZEE5_Live_TV.Form1.resources
+C:\Users\Henry\source\repos\ZEE5 Live TV\ZEE5 Live TV\obj\Debug\ZEE5_Live_TV.Properties.Resources.resources
+C:\Users\Henry\source\repos\ZEE5 Live TV\ZEE5 Live TV\obj\Debug\ZEE5 Live TV.csproj.GenerateResource.cache
+C:\Users\Henry\source\repos\ZEE5 Live TV\ZEE5 Live TV\obj\Debug\ZEE5 Live TV.csproj.CoreCompileInputs.cache
+C:\Users\Henry\source\repos\ZEE5 Live TV\ZEE5 Live TV\obj\Debug\ZEE5 Live TV.exe
+C:\Users\Henry\source\repos\ZEE5 Live TV\ZEE5 Live TV\obj\Debug\ZEE5 Live TV.pdb
+C:\Users\Henry\source\repos\ZEE5 Live TV\ZEE5 Live TV\bin\Debug\Leaf.xNet.dll
+C:\Users\Henry\source\repos\ZEE5 Live TV\ZEE5 Live TV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Henry\source\repos\ZEE5 Live TV\ZEE5 Live TV\bin\Debug\Leaf.xNet.xml
+C:\Users\Henry\source\repos\ZEE5 Live TV\ZEE5 Live TV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Henry\source\repos\ZEE5 Live TV\ZEE5 Live TV\obj\Debug\ZEE5 Live TV.csproj.CopyComplete
