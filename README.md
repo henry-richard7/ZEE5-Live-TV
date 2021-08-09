@@ -9,6 +9,7 @@
 By default the app tries to play the stream through VLC, If vlc not installed it play through [MPV player](https://mpv.io/) a free, open source, and cross-platform media player.
 
 # 📷Screenshot
+![Screenshot](https://user-images.githubusercontent.com/68910039/128673457-b7039680-7a9f-4afb-9330-1b0a46e6e1b9.png)
 
 # My Youtube Channel
 [![](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
