@@ -1,3 +1,6 @@
+# Badges
+![Downloads](https://img.shields.io/github/downloads/henry-richard7/ZEE5-Live-TV/total.svg?style=for-the-badge&logo=github)
+
 # ZEE5-Live-TV
  C# desktop app which allows you to watch zee5 live tv channels
 
